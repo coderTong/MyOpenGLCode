@@ -155,6 +155,7 @@ glEable(GL_BLEND);
 ### shader program
 ### 着⾊器程序Shader
 
+![01OpenGL08](images/01OpenGL08.png)
 好像下面这样
 ```c
 
